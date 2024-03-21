@@ -1,1 +1,1 @@
-console.log('button')
+console.log('button color text')
